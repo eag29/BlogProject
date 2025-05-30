@@ -26,9 +26,3 @@ Bu proje, **ASP.NET Core MVC**, **Entity Framework Core**, **MS SQL Server** ve 
 
 
 
-## ⚙️ Kurulum Adımları
-
-1. **Projeyi klonlayın:**
-   ```bash
-   git clone https://github.com/kullanici-adiniz/mvc-blog-projesi.git
-   cd mvc-blog-projesi
