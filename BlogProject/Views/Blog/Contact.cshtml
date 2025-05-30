@@ -1,0 +1,32 @@
+﻿<div class="mainbar">
+    <div class="article">
+        <h2><span>İletişim</span></h2>
+        <div class="clr"></div>
+        <p>You can find more of my free template designs at my website. For premium commercial designs, you can check out DreamTemplate.com.</p>
+    </div>
+    <div class="article">
+        <h2><span>Bize Mail</span> Gönder</h2>
+        <div class="clr"></div>
+        <form action="/Blog/CreateContact" method="post" id="contactform">
+            <ol>
+
+                <li>
+                    <label for="NameSurname">Isim (zorunlu)</label>
+                    <input id="NameSurname" name="NameSurname" class="text" required />
+                </li>
+                <li>
+                    <label for="Email">Email Adresi (zorunlu)</label>
+                    <input id="Email" name="Email" class="text" required />
+                </li>
+                <li>
+                    <label for="Message">Mesajin</label>
+                    <textarea id="Message" name="Message" rows="8" cols="50"></textarea>
+                </li>
+                <li>
+                    <input type="image" name="imageField" id="imageField" src="/images/submit.gif" class="send" />
+                    <div class="clr"></div>
+                </li>
+            </ol>
+        </form>
+    </div>
+</div>
