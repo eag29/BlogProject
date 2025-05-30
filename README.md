@@ -8,7 +8,7 @@ Bu proje, **ASP.NET Core MVC**, **Entity Framework Core**, **MS SQL Server** ve 
 - 🔒 Yetkilendirme ve rol bazlı erişim kontrolü (Admin, Yazar)
 - 📝 Blog yazısı oluşturma, güncelleme, silme
 - 🗓 Yayın tarihi ve yazar bilgisi gösterimi
-- 🎨 Temiz ve kullanıcı dostu arayüz (Bootstrap ile)
+- 🎨 Temiz ve kullanıcı dostu arayüz 
 - 📊 Yönetici paneli üzerinden içerik ve kullanıcı yönetimi
 
 ## 🛠 Kullanılan Teknolojiler
