@@ -22,7 +22,4 @@ Bu proje, **ASP.NET Core MVC**, **Entity Framework Core**, **MS SQL Server** ve 
 | Bootstrap              | Responsive tasarım                        |
 | LINQ                   | Veri sorgulama dili                       |
 
-## 📸 Ekran Görüntüleri
-
-
 
